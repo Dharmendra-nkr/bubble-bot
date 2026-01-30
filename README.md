@@ -1,4 +1,4 @@
-# BubbleBot — a Lightweight Flask Frontend
+# BubbleBot a Lightweight Flask Frontend
 
 BubbleBot is a minimal, attractive frontend built with Flask that provides a decorative floating-bubbles background and a centered chat card to connect a chatbot backend quickly for local testing or demos.
 
